@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-Humanscatter investigates how we can enable rich interactions between humans and computing systems **without batteries**, using only backscatter communication and minimal harvested energy (solar or human power). The project delivers:
+Humanscatter investigates how we can enable rich interactions between humans and computing systems **without batteries**, using only backscatter communication and minimal harvested energy (solar or human power). The project is based upon an educational backscatter platform, with similar architecture [educationnal backscatter platform](https://github.com/uu-core/wcnes-project2025/tree/main?tab=readme-ov-file#pico-backscatter) The Humanscatter project delivers:
 
 - A **carrier-receiver** unit powered by a hand crank
 - A backscatter tag
