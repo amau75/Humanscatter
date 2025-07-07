@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\localadmin\Documents\EIT\0_Master_Thesis\1_RISE\4_PCB\Test_Bench_Back_Scatter_reflection_repo\Test_Bench_Back_Scatter_Reflection\PCB_Test_Bench_Back_Scatter_Reflection.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_test_bench_back_scatter_reflection-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=pcb_test_bench_back_scatter_reflection-squareholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_test_bench_back_scatter_reflection-slotholes.txt|LayerPairs=gtl,gbl

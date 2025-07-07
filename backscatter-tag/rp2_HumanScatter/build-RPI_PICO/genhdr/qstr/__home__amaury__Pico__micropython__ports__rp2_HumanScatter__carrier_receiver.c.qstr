@@ -1,0 +1,8 @@
+Q(__name__)
+Q(carrier_receiver)
+Q(setup_CR)
+Q(receive_CR)
+Q(start_carrier_CR)
+Q(stop_carrier_CR)
+Q(test_SPI_CR)
+Q(carrier_receiver)

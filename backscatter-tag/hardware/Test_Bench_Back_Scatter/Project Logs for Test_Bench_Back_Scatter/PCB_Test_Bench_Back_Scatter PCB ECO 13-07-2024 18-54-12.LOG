@@ -1,0 +1,5 @@
+Added Component: Designator=USB_C1(Simple_USB_C_Socket_Breakout)
+Added Pin To Net: NetName=NetD1_3 Pin=USB_C1-0
+Added Pin To Net: NetName=GND Pin=USB_C1-3
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component USB_C1 USB C Socket Breakout
+Added Room: Name=Schematic_Test_Bench_Back_Scatter

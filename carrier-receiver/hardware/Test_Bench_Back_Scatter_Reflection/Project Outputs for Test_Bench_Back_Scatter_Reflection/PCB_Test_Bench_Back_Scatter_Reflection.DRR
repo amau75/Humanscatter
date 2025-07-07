@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCB_Test_Bench_Back_Scatter_Reflection.PcbDoc   19/09/2024  19:58:20
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_Test_Bench_Back_Scatter_Reflection-RoundHoles.TXT
+ASCII SquareHoles File : PCB_Test_Bench_Back_Scatter_Reflection-SquareHoles.TXT
+ASCII SlotHoles File : PCB_Test_Bench_Back_Scatter_Reflection-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        30mil (0.762mm)          Round          40               5.10 Inch (129.54 mm)
+T2        35.4mil (0.89916mm)      Round          4                3.07 Inch (77.90 mm)
+T3        39.4mil (1.00076mm)      Slot           3                283.77 Inch (7207.78 mm)
+T4        59.1mil (1.50114mm)      Square         4                1.74 Inch (44.11 mm)
+T5        82.7mil (2.10058mm)      Round          4                2.75 Inch (69.80 mm)
+T6        122mil (3.0988mm)        Round          4                8.96 Inch (227.50 mm)
+---------------------------------------------------------------------------
+Totals                                            59               305.38 Inch (7756.64 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

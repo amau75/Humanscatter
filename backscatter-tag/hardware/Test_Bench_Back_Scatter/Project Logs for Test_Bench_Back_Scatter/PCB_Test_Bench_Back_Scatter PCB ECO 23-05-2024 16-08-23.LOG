@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=NetccRF1_0 Pin=-0
+Removed Pin From Net: NetName=NetccRF2_0 Pin=-0
+Removed Pin From Net: NetName=VCC Pin=-9
+Removed Pin From Net: NetName=VCC Pin=-9
+Removed Pin From Net: NetName=NetccRF1_10 Pin=-10
+Removed Pin From Net: NetName=NetccRF1_10 Pin=-10
+Removed Pin From Net: NetName=NetccRF1_11 Pin=-11
+Removed Pin From Net: NetName=NetccRF1_11 Pin=-11
+Removed Pin From Net: NetName=NetccRF1_12 Pin=-12
+Removed Pin From Net: NetName=NetccRF1_12 Pin=-12
+Removed Pin From Net: NetName=NetccRF1_13 Pin=-13
+Removed Pin From Net: NetName=NetccRF2_13 Pin=-13
+Removed Pin From Net: NetName=NetccRF1_14 Pin=-14
+Removed Pin From Net: NetName=NetccRF2_14 Pin=-14
+Removed Pin From Net: NetName=NetccRF2_13 Pin=PI1-1
+Removed Pin From Net: NetName=NetccRF1_12 Pin=PI1-3
+Removed Pin From Net: NetName=NetccRF1_10 Pin=PI1-4
+Removed Pin From Net: NetName=NetccRF1_11 Pin=PI1-5
+Removed Pin From Net: NetName=NetccRF1_13 Pin=PI1-6
+Removed Pin From Net: NetName=NetccRF1_0 Pin=PI1-13
+Removed Pin From Net: NetName=NetccRF1_14 Pin=PI1-14
+Removed Pin From Net: NetName=NetccRF2_14 Pin=PI1-30
+Removed Pin From Net: NetName=NetccRF2_0 Pin=PI1-31
+Change Component Designator: OldDesignator= NewDesignator=ccRF1
+Change Component Designator: OldDesignator= NewDesignator=ccRF2
+Change Component Designator: OldDesignator= NewDesignator=J3
+Change Component Designator: OldDesignator= NewDesignator=WPM1
+Added Pin To Net: NetName=NetccRF2_14 Pin=ccRF1-1
+Added Pin To Net: NetName=NetccRF2_13 Pin=ccRF1-2
+Added Pin To Net: NetName=NetccRF2_0 Pin=ccRF1-3
+Added Pin To Net: NetName=NetccRF1_14 Pin=ccRF1-4
+Added Pin To Net: NetName=NetccRF1_13 Pin=ccRF1-5
+Added Pin To Net: NetName=VCC Pin=ccRF1-6
+Added Pin To Net: NetName=NetccRF1_12 Pin=ccRF1-15
+Added Pin To Net: NetName=NetccRF1_11 Pin=ccRF2-1
+Added Pin To Net: NetName=NetccRF1_10 Pin=ccRF2-2
+Added Pin To Net: NetName=NetccRF2_0 Pin=ccRF2-3
+Added Pin To Net: NetName=NetccRF1_14 Pin=ccRF2-4
+Added Pin To Net: NetName=NetccRF1_13 Pin=ccRF2-5
+Added Pin To Net: NetName=VCC Pin=ccRF2-6
+Added Pin To Net: NetName=NetccRF1_0 Pin=ccRF2-15
+Added Pin To Net: NetName=NetccRF1_10 Pin=PI1-1
+Added Pin To Net: NetName=NetccRF2_0 Pin=PI1-3
+Added Pin To Net: NetName=NetccRF1_13 Pin=PI1-4
+Added Pin To Net: NetName=NetccRF1_14 Pin=PI1-5
+Added Pin To Net: NetName=NetccRF2_13 Pin=PI1-6
+Added Pin To Net: NetName=NetccRF1_12 Pin=PI1-13
+Added Pin To Net: NetName=NetccRF2_14 Pin=PI1-14
+Added Pin To Net: NetName=NetccRF1_11 Pin=PI1-30
+Added Pin To Net: NetName=NetccRF1_0 Pin=PI1-31
+Change Net Name : Old Net Name=NetccRF1_0 New Net Name=NetccRF2_15
+Change Net Name : Old Net Name=NetccRF1_10 New Net Name=NetccRF2_2
+Change Net Name : Old Net Name=NetccRF1_11 New Net Name=NetccRF2_1
+Change Net Name : Old Net Name=NetccRF1_12 New Net Name=NetccRF1_15
+Change Net Name : Old Net Name=NetccRF1_13 New Net Name=NetccRF1_5
+Change Net Name : Old Net Name=NetccRF1_14 New Net Name=NetccRF1_4
+Change Net Name : Old Net Name=NetccRF2_0 New Net Name=NetccRF1_3
+Change Net Name : Old Net Name=NetccRF2_13 New Net Name=NetccRF1_2
+Change Net Name : Old Net Name=NetccRF2_14 New Net Name=NetccRF1_1
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component ccRF1 ccRF_Click
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component ccRF2 ccRF_Click
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component J3 DCJ200-10-A-XX-K_REVA
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component WPM1 WPM_404
+Added Room: Name=Schematic_Test_Bench_Back_Scatter

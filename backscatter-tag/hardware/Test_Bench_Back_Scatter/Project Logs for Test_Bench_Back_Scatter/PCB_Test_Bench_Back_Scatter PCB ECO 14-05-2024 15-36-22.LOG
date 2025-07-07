@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator= NewDesignator=ccRF1
+Change Component Designator: OldDesignator= NewDesignator=D1
+Change Component Designator: OldDesignator= NewDesignator=HMC1
+Change Component Designator: OldDesignator= NewDesignator=HMC2
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=P1
+Change Component Designator: OldDesignator= NewDesignator=PI1
+Change Component Designator: OldDesignator= NewDesignator=PI_DISP1
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component D1 Diode 18TQ045
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component HMC1 GaAs_MMIC_SPDT_Switch
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component HMC2 GaAs_MMIC_SPDT_Switch
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component J1 COAX-F
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component J2 COAX-F
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component P1 Header 2
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component PI1 Raspberry Pi Pico
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component PI_DISP1 Pico_Display
+Added Room: Name=Schematic_Test_Bench_Back_Scatter

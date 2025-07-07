@@ -1,0 +1,123 @@
+Change Component Designator: OldDesignator= NewDesignator=*
+Added Component: Designator=ccRF1(CCRF_CLICK_SMD)
+Added Component: Designator=ccRF2(CCRF_CLICK_SMD)
+Added Component: Designator=D1(18TQ045-M3)
+Added Component: Designator=J3(GCT_DCJ200-10-A-XX-K_REVA)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=PI1(Raspberry Pi Pico)
+Added Component: Designator=PI_DISP1(Pico_Display_Header)
+Added Component: Designator=R1(J1-0603)
+Added Component: Designator=R2(J1-0603)
+Added Component: Designator=WPM1(WPM404_SMD)
+Added Pin To Net: NetName=NetccRF1_1 Pin=ccRF1-1
+Added Pin To Net: NetName=NetccRF1_2 Pin=ccRF1-2
+Added Pin To Net: NetName=NetccRF1_3 Pin=ccRF1-3
+Added Pin To Net: NetName=NetccRF1_4 Pin=ccRF1-4
+Added Pin To Net: NetName=NetccRF1_5 Pin=ccRF1-5
+Added Pin To Net: NetName=VCC Pin=ccRF1-6
+Added Pin To Net: NetName=GND Pin=ccRF1-7
+Added Pin To Net: NetName=GND Pin=ccRF1-8
+Added Pin To Net: NetName=NetccRF1_15 Pin=ccRF1-15
+Added Pin To Net: NetName=NetccRF2_1 Pin=ccRF2-1
+Added Pin To Net: NetName=NetccRF2_2 Pin=ccRF2-2
+Added Pin To Net: NetName=NetccRF1_3 Pin=ccRF2-3
+Added Pin To Net: NetName=NetccRF1_4 Pin=ccRF2-4
+Added Pin To Net: NetName=NetccRF1_5 Pin=ccRF2-5
+Added Pin To Net: NetName=VCC Pin=ccRF2-6
+Added Pin To Net: NetName=GND Pin=ccRF2-7
+Added Pin To Net: NetName=GND Pin=ccRF2-8
+Added Pin To Net: NetName=NetccRF2_15 Pin=ccRF2-15
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=NetD1_3 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=NetccRF2_2 Pin=PI1-1
+Added Pin To Net: NetName=GND Pin=PI1-2
+Added Pin To Net: NetName=NetccRF1_3 Pin=PI1-3
+Added Pin To Net: NetName=NetccRF1_5 Pin=PI1-4
+Added Pin To Net: NetName=NetccRF1_4 Pin=PI1-5
+Added Pin To Net: NetName=NetccRF1_2 Pin=PI1-6
+Added Pin To Net: NetName=GND Pin=PI1-7
+Added Pin To Net: NetName=NetPI1_9 Pin=PI1-9
+Added Pin To Net: NetName=NetPI1_10 Pin=PI1-10
+Added Pin To Net: NetName=NetPI1_11 Pin=PI1-11
+Added Pin To Net: NetName=GND Pin=PI1-12
+Added Pin To Net: NetName=NetccRF1_15 Pin=PI1-13
+Added Pin To Net: NetName=NetccRF1_1 Pin=PI1-14
+Added Pin To Net: NetName=NetPI1_15 Pin=PI1-15
+Added Pin To Net: NetName=NetPI1_16 Pin=PI1-16
+Added Pin To Net: NetName=GND Pin=PI1-17
+Added Pin To Net: NetName=NetPI1_18 Pin=PI1-18
+Added Pin To Net: NetName=NetPI1_19 Pin=PI1-19
+Added Pin To Net: NetName=NetPI1_20 Pin=PI1-20
+Added Pin To Net: NetName=NetPI1_21 Pin=PI1-21
+Added Pin To Net: NetName=GND Pin=PI1-22
+Added Pin To Net: NetName=NetPI1_23 Pin=PI1-23
+Added Pin To Net: NetName=NetPI1_24 Pin=PI1-24
+Added Pin To Net: NetName=NetPI1_25 Pin=PI1-25
+Added Pin To Net: NetName=GND Pin=PI1-27
+Added Pin To Net: NetName=NetPI1_38 Pin=PI1-28
+Added Pin To Net: NetName=NetPI1_29 Pin=PI1-29
+Added Pin To Net: NetName=NetccRF2_1 Pin=PI1-30
+Added Pin To Net: NetName=NetccRF2_15 Pin=PI1-31
+Added Pin To Net: NetName=GND Pin=PI1-32
+Added Pin To Net: NetName=GND Pin=PI1-37
+Added Pin To Net: NetName=VCC Pin=PI1-38
+Added Pin To Net: NetName=GND Pin=PI_DISP1-0
+Added Pin To Net: NetName=VCC Pin=PI_DISP1-1
+Added Pin To Net: NetName=GND Pin=PI_DISP1-2
+Added Pin To Net: NetName=NetPI1_29 Pin=PI_DISP1-3
+Added Pin To Net: NetName=GND Pin=PI_DISP1-4
+Added Pin To Net: NetName=NetPI1_25 Pin=PI_DISP1-5
+Added Pin To Net: NetName=NetPI1_24 Pin=PI_DISP1-6
+Added Pin To Net: NetName=NetPI1_23 Pin=PI_DISP1-7
+Added Pin To Net: NetName=GND Pin=PI_DISP1-8
+Added Pin To Net: NetName=NetPI1_21 Pin=PI_DISP1-9
+Added Pin To Net: NetName=NetPI1_20 Pin=PI_DISP1-10
+Added Pin To Net: NetName=NetPI1_19 Pin=PI_DISP1-11
+Added Pin To Net: NetName=NetPI1_18 Pin=PI_DISP1-12
+Added Pin To Net: NetName=GND Pin=PI_DISP1-13
+Added Pin To Net: NetName=NetPI1_16 Pin=PI_DISP1-14
+Added Pin To Net: NetName=NetPI1_15 Pin=PI_DISP1-15
+Added Pin To Net: NetName=GND Pin=PI_DISP1-16
+Added Pin To Net: NetName=NetPI1_11 Pin=PI_DISP1-17
+Added Pin To Net: NetName=NetPI1_10 Pin=PI_DISP1-18
+Added Pin To Net: NetName=NetPI1_9 Pin=PI_DISP1-19
+Added Pin To Net: NetName=GND Pin=PI_DISP1-20
+Added Pin To Net: NetName=GND Pin=PI_DISP1-21
+Added Pin To Net: NetName=NetPI1_38 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=WPM1-0
+Added Pin To Net: NetName=NetD1_1 Pin=WPM1-1
+Added Pin To Net: NetName=GND Pin=WPM1-2
+Added Pin To Net: NetName=VCC Pin=WPM1-3
+Change Net Name : Old Net Name=NetPI1_38 New Net Name=NetPI1_28
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=R1-1
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=R2-1
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetPI1_26 Pin=PI1-26
+Added Pin To Net: NetName=NetPI1_26 Pin=R2-2
+Added Net: Name=NetPI1_26
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component * RISE_LOGO
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component ccRF1 ccRF_Click
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component ccRF2 ccRF_Click
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component D1 Diode 18TQ045
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component J3 DCJ200-10-A-XX-K_REVA
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component P1 Header 2
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component P2 LED_1
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component P3 LED_2
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component PI1 Raspberry Pi Pico
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component PI_DISP1 Pico_Display
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component R1 Res
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component R2 Res
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component WPM1 WPM_404
+Added Room: Name=Schematic_Test_Bench_Back_Scatter

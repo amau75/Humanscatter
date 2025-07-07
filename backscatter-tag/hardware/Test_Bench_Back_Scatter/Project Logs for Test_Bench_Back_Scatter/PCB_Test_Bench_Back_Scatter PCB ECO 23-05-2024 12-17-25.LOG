@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=WPM? NewDesignator=WPM1
+Added Component: Designator=PI_DISP1(Pico_Display_Header_SMD)
+Added Pin To Net: NetName=GND Pin=PI_DISP1-0
+Added Pin To Net: NetName=VCC Pin=PI_DISP1-1
+Added Pin To Net: NetName=GND Pin=PI_DISP1-2
+Added Pin To Net: NetName=NetPI1_29 Pin=PI_DISP1-3
+Added Pin To Net: NetName=GND Pin=PI_DISP1-4
+Added Pin To Net: NetName=NetPI1_25 Pin=PI_DISP1-5
+Added Pin To Net: NetName=NetPI1_24 Pin=PI_DISP1-6
+Added Pin To Net: NetName=NetPI1_23 Pin=PI_DISP1-7
+Added Pin To Net: NetName=GND Pin=PI_DISP1-8
+Added Pin To Net: NetName=NetPI1_21 Pin=PI_DISP1-9
+Added Pin To Net: NetName=NetPI1_20 Pin=PI_DISP1-11
+Added Pin To Net: NetName=NetPI1_19 Pin=PI_DISP1-12
+Added Pin To Net: NetName=NetPI1_18 Pin=PI_DISP1-13
+Added Pin To Net: NetName=GND Pin=PI_DISP1-14
+Added Pin To Net: NetName=NetPI1_16 Pin=PI_DISP1-15
+Added Pin To Net: NetName=NetPI1_15 Pin=PI_DISP1-16
+Added Pin To Net: NetName=GND Pin=PI_DISP1-17
+Added Pin To Net: NetName=NetPI1_11 Pin=PI_DISP1-18
+Added Pin To Net: NetName=NetPI1_10 Pin=PI_DISP1-19
+Added Pin To Net: NetName=NetPI1_9 Pin=PI_DISP1-20
+Added Pin To Net: NetName=GND Pin=PI_DISP1-21
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component PI_DISP1 Pico_Display
+Added Room: Name=Schematic_Test_Bench_Back_Scatter

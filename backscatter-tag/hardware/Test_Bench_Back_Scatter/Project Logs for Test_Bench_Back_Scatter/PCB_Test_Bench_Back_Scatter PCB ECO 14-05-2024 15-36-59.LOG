@@ -1,0 +1,77 @@
+Added Component: Designator=HMC1(HMC190BMS8E)
+Added Component: Designator=HMC2(HMC190BMS8E)
+Added Component: Designator=PI1(Raspberry Pi Pico)
+Added Component: Designator=PI_DISP1(Pico_Display_Header)
+Added Pin To Net: NetName=NetC1_2 Pin=HMC1-0
+Added Pin To Net: NetName=GND Pin=HMC1-1
+Added Pin To Net: NetName=NetC3_1 Pin=HMC1-2
+Added Pin To Net: NetName=NetHMC1_3 Pin=HMC1-3
+Added Pin To Net: NetName=GND Pin=HMC1-4
+Added Pin To Net: NetName=NetC2_1 Pin=HMC1-5
+Added Pin To Net: NetName=GND Pin=HMC1-6
+Added Pin To Net: NetName=GND Pin=HMC1-7
+Added Pin To Net: NetName=NetC4_2 Pin=HMC2-0
+Added Pin To Net: NetName=GND Pin=HMC2-1
+Added Pin To Net: NetName=NetC6_1 Pin=HMC2-2
+Added Pin To Net: NetName=NetHMC2_3 Pin=HMC2-3
+Added Pin To Net: NetName=GND Pin=HMC2-4
+Added Pin To Net: NetName=NetC5_1 Pin=HMC2-5
+Added Pin To Net: NetName=GND Pin=HMC2-6
+Added Pin To Net: NetName=GND Pin=HMC2-7
+Added Pin To Net: NetName=NetccRF1_1 Pin=PI1-0
+Added Pin To Net: NetName=NetccRF1_15 Pin=PI1-1
+Added Pin To Net: NetName=GND Pin=PI1-2
+Added Pin To Net: NetName=NetccRF1_3 Pin=PI1-3
+Added Pin To Net: NetName=NetccRF1_5 Pin=PI1-4
+Added Pin To Net: NetName=NetccRF1_4 Pin=PI1-5
+Added Pin To Net: NetName=NetccRF1_2 Pin=PI1-6
+Added Pin To Net: NetName=GND Pin=PI1-7
+Added Pin To Net: NetName=NetPI1_9 Pin=PI1-9
+Added Pin To Net: NetName=NetPI1_10 Pin=PI1-10
+Added Pin To Net: NetName=NetPI1_11 Pin=PI1-11
+Added Pin To Net: NetName=GND Pin=PI1-12
+Added Pin To Net: NetName=NetPI1_13 Pin=PI1-13
+Added Pin To Net: NetName=NetPI1_14 Pin=PI1-14
+Added Pin To Net: NetName=NetPI1_15 Pin=PI1-15
+Added Pin To Net: NetName=NetPI1_16 Pin=PI1-16
+Added Pin To Net: NetName=GND Pin=PI1-17
+Added Pin To Net: NetName=NetPI1_18 Pin=PI1-18
+Added Pin To Net: NetName=NetPI1_19 Pin=PI1-19
+Added Pin To Net: NetName=NetPI1_20 Pin=PI1-20
+Added Pin To Net: NetName=NetPI1_21 Pin=PI1-21
+Added Pin To Net: NetName=GND Pin=PI1-22
+Added Pin To Net: NetName=NetPI1_23 Pin=PI1-23
+Added Pin To Net: NetName=NetPI1_24 Pin=PI1-24
+Added Pin To Net: NetName=NetPI1_25 Pin=PI1-25
+Added Pin To Net: NetName=GND Pin=PI1-27
+Added Pin To Net: NetName=NetPI1_29 Pin=PI1-29
+Added Pin To Net: NetName=GND Pin=PI1-32
+Added Pin To Net: NetName=VCC Pin=PI1-35
+Added Pin To Net: NetName=GND Pin=PI1-37
+Added Pin To Net: NetName=NetD1_1 Pin=PI1-38
+Added Pin To Net: NetName=GND Pin=PI_DISP1-0
+Added Pin To Net: NetName=VCC Pin=PI_DISP1-1
+Added Pin To Net: NetName=GND Pin=PI_DISP1-2
+Added Pin To Net: NetName=NetPI1_29 Pin=PI_DISP1-3
+Added Pin To Net: NetName=GND Pin=PI_DISP1-4
+Added Pin To Net: NetName=NetPI1_25 Pin=PI_DISP1-5
+Added Pin To Net: NetName=NetPI1_24 Pin=PI_DISP1-6
+Added Pin To Net: NetName=NetPI1_23 Pin=PI_DISP1-7
+Added Pin To Net: NetName=GND Pin=PI_DISP1-8
+Added Pin To Net: NetName=NetPI1_20 Pin=PI_DISP1-11
+Added Pin To Net: NetName=NetPI1_19 Pin=PI_DISP1-12
+Added Pin To Net: NetName=NetPI1_18 Pin=PI_DISP1-13
+Added Pin To Net: NetName=GND Pin=PI_DISP1-14
+Added Pin To Net: NetName=NetPI1_16 Pin=PI_DISP1-15
+Added Pin To Net: NetName=NetPI1_15 Pin=PI_DISP1-16
+Added Pin To Net: NetName=GND Pin=PI_DISP1-17
+Added Pin To Net: NetName=NetPI1_11 Pin=PI_DISP1-18
+Added Pin To Net: NetName=NetPI1_10 Pin=PI_DISP1-19
+Added Pin To Net: NetName=NetPI1_9 Pin=PI_DISP1-20
+Added Pin To Net: NetName=GND Pin=PI_DISP1-21
+Added Pin To Net: NetName=GND Pin=PI_DISP1-22
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component HMC1 GaAs_MMIC_SPDT_Switch
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component HMC2 GaAs_MMIC_SPDT_Switch
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component PI1 Raspberry Pi Pico
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component PI_DISP1 Pico_Display
+Added Room: Name=Schematic_Test_Bench_Back_Scatter

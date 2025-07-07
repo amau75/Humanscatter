@@ -1,0 +1,157 @@
+Added Component: Designator=C1(C1206)
+Added Component: Designator=C2(C1206)
+Added Component: Designator=C3(C1206)
+Added Component: Designator=C4(C1206)
+Added Component: Designator=C5(C1206)
+Added Component: Designator=C6(C1206)
+Added Component: Designator=ccRF1(ccRF_Click)
+Added Component: Designator=D1(TO-220AC)
+Added Component: Designator=HMC1(HMC190BMS8E)
+Added Component: Designator=HMC2(HMC190BMS8E)
+Added Component: Designator=J1(MCX5.08-H5)
+Added Component: Designator=J2(MCX5.08-H5)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=PI1(Raspberry Pi Pico)
+Added Component: Designator=PI_DISP1(Pico_Display_Header)
+Added Component: Designator=R1(J1-0603)
+Added Component: Designator=R2(J1-0603)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=ccRF1-7
+Added Pin To Net: NetName=GND Pin=ccRF1-8
+Added Pin To Net: NetName=GND Pin=HMC1-1
+Added Pin To Net: NetName=GND Pin=HMC1-4
+Added Pin To Net: NetName=GND Pin=HMC1-6
+Added Pin To Net: NetName=GND Pin=HMC1-7
+Added Pin To Net: NetName=GND Pin=HMC2-1
+Added Pin To Net: NetName=GND Pin=HMC2-4
+Added Pin To Net: NetName=GND Pin=HMC2-6
+Added Pin To Net: NetName=GND Pin=HMC2-7
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=PI1-2
+Added Pin To Net: NetName=GND Pin=PI1-7
+Added Pin To Net: NetName=GND Pin=PI1-12
+Added Pin To Net: NetName=GND Pin=PI1-17
+Added Pin To Net: NetName=GND Pin=PI1-22
+Added Pin To Net: NetName=GND Pin=PI1-27
+Added Pin To Net: NetName=GND Pin=PI1-32
+Added Pin To Net: NetName=GND Pin=PI1-37
+Added Pin To Net: NetName=GND Pin=PI_DISP1-0
+Added Pin To Net: NetName=GND Pin=PI_DISP1-2
+Added Pin To Net: NetName=GND Pin=PI_DISP1-4
+Added Pin To Net: NetName=GND Pin=PI_DISP1-8
+Added Pin To Net: NetName=GND Pin=PI_DISP1-14
+Added Pin To Net: NetName=GND Pin=PI_DISP1-17
+Added Pin To Net: NetName=GND Pin=PI_DISP1-21
+Added Pin To Net: NetName=GND Pin=PI_DISP1-22
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=HMC1-0
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=HMC1-5
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=J1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=HMC1-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=HMC2-0
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=HMC2-5
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=J2-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=HMC2-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetccRF1_1 Pin=ccRF1-1
+Added Pin To Net: NetName=NetccRF1_1 Pin=PI1-0
+Added Net: Name=NetccRF1_1
+Added Pin To Net: NetName=NetccRF1_2 Pin=ccRF1-2
+Added Pin To Net: NetName=NetccRF1_2 Pin=PI1-6
+Added Net: Name=NetccRF1_2
+Added Pin To Net: NetName=NetccRF1_3 Pin=ccRF1-3
+Added Pin To Net: NetName=NetccRF1_3 Pin=PI1-3
+Added Net: Name=NetccRF1_3
+Added Pin To Net: NetName=NetccRF1_4 Pin=ccRF1-4
+Added Pin To Net: NetName=NetccRF1_4 Pin=PI1-5
+Added Net: Name=NetccRF1_4
+Added Pin To Net: NetName=NetccRF1_5 Pin=ccRF1-5
+Added Pin To Net: NetName=NetccRF1_5 Pin=PI1-4
+Added Net: Name=NetccRF1_5
+Added Pin To Net: NetName=NetccRF1_15 Pin=ccRF1-15
+Added Pin To Net: NetName=NetccRF1_15 Pin=PI1-1
+Added Net: Name=NetccRF1_15
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=PI1-38
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=P1-2
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetHMC1_3 Pin=HMC1-3
+Added Pin To Net: NetName=NetHMC1_3 Pin=R1-2
+Added Net: Name=NetHMC1_3
+Added Pin To Net: NetName=NetHMC2_3 Pin=HMC2-3
+Added Pin To Net: NetName=NetHMC2_3 Pin=R2-2
+Added Net: Name=NetHMC2_3
+Added Pin To Net: NetName=NetPI1_9 Pin=PI1-9
+Added Pin To Net: NetName=NetPI1_9 Pin=PI_DISP1-20
+Added Net: Name=NetPI1_9
+Added Pin To Net: NetName=NetPI1_10 Pin=PI1-10
+Added Pin To Net: NetName=NetPI1_10 Pin=PI_DISP1-19
+Added Net: Name=NetPI1_10
+Added Pin To Net: NetName=NetPI1_11 Pin=PI1-11
+Added Pin To Net: NetName=NetPI1_11 Pin=PI_DISP1-18
+Added Net: Name=NetPI1_11
+Added Pin To Net: NetName=NetPI1_14 Pin=PI1-14
+Added Pin To Net: NetName=NetPI1_14 Pin=R1-1
+Added Net: Name=NetPI1_14
+Added Pin To Net: NetName=NetPI1_15 Pin=PI1-15
+Added Pin To Net: NetName=NetPI1_15 Pin=PI_DISP1-16
+Added Net: Name=NetPI1_15
+Added Pin To Net: NetName=NetPI1_16 Pin=PI1-16
+Added Pin To Net: NetName=NetPI1_16 Pin=PI_DISP1-15
+Added Net: Name=NetPI1_16
+Added Pin To Net: NetName=NetPI1_18 Pin=PI1-18
+Added Pin To Net: NetName=NetPI1_18 Pin=PI_DISP1-13
+Added Net: Name=NetPI1_18
+Added Pin To Net: NetName=NetPI1_19 Pin=PI1-19
+Added Pin To Net: NetName=NetPI1_19 Pin=PI_DISP1-12
+Added Net: Name=NetPI1_19
+Added Pin To Net: NetName=NetPI1_20 Pin=PI1-20
+Added Pin To Net: NetName=NetPI1_20 Pin=PI_DISP1-11
+Added Net: Name=NetPI1_20
+Added Pin To Net: NetName=NetPI1_21 Pin=PI1-21
+Added Net: Name=NetPI1_21
+Added Pin To Net: NetName=NetPI1_23 Pin=PI1-23
+Added Pin To Net: NetName=NetPI1_23 Pin=PI_DISP1-7
+Added Net: Name=NetPI1_23
+Added Pin To Net: NetName=NetPI1_24 Pin=PI1-24
+Added Pin To Net: NetName=NetPI1_24 Pin=PI_DISP1-6
+Added Net: Name=NetPI1_24
+Added Pin To Net: NetName=NetPI1_25 Pin=PI1-25
+Added Pin To Net: NetName=NetPI1_25 Pin=PI_DISP1-5
+Added Net: Name=NetPI1_25
+Added Pin To Net: NetName=NetPI1_29 Pin=PI1-29
+Added Pin To Net: NetName=NetPI1_29 Pin=PI_DISP1-3
+Added Net: Name=NetPI1_29
+Added Pin To Net: NetName=VCC Pin=PI1-35
+Added Pin To Net: NetName=VCC Pin=PI_DISP1-1
+Added Net: Name=VCC
+Added Class: Name=Schematic_Test_Bench_Back_Scatter
+Added Room: Name=Schematic_Test_Bench_Back_Scatter

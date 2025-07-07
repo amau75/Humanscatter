@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetPI1_13 Pin=PI1-13
+Added Pin To Net: NetName=NetPI1_13 Pin=R2-1
+Added Net: Name=NetPI1_13
+Added Room: Name=Schematic_Test_Bench_Back_Scatter

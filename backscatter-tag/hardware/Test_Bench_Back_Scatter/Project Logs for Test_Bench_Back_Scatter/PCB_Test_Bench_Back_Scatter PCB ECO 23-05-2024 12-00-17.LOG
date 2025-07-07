@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator= NewDesignator=ccRF1
+Change Component Designator: OldDesignator= NewDesignator=ccRF2
+Change Component Designator: OldDesignator= NewDesignator=D1
+Change Component Designator: OldDesignator= NewDesignator=J3
+Change Component Designator: OldDesignator= NewDesignator=WPM?
+Added Pin To Net: NetName=GND Pin=WPM?-0
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component ccRF1 ccRF_Click
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component ccRF2 ccRF_Click
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component D1 Diode 18TQ045
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component J3 DCJ200-10-A-XX-K_REVA
+Added Room: Name=Schematic_Test_Bench_Back_Scatter

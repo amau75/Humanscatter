@@ -1,0 +1,7 @@
+Added Component: Designator=WPM?(WPM404_SMD)
+Added Pin To Net: NetName=NetP1_1 Pin=WPM?-0
+Added Pin To Net: NetName=NetJ3_1 Pin=WPM?-1
+Added Pin To Net: NetName=GND Pin=WPM?-2
+Added Pin To Net: NetName=NetD1_3 Pin=WPM?-3
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component WPM? WPM_404
+Added Room: Name=Schematic_Test_Bench_Back_Scatter

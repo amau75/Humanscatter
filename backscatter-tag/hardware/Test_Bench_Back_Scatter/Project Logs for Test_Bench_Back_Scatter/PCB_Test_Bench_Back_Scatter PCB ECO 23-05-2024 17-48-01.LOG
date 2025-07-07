@@ -1,0 +1,3 @@
+Added Component: Designator=*(RISE_Logo)
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component * RISE_LOGO
+Added Room: Name=Schematic_Test_Bench_Back_Scatter

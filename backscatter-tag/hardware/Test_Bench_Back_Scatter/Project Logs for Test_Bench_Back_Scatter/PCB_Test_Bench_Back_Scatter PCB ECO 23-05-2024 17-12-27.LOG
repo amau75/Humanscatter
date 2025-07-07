@@ -1,0 +1,6 @@
+Added Component: Designator=J1(CUI_UJC-HP-3-SMT-TR)
+Added Pin To Net: NetName=NetD1_3 Pin=J1-A9
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=GND Pin=J1-B12
+Added Member To Class: ClassName=Schematic_Test_Bench_Back_Scatter Member=Component J1 UJC-HP-3-SMT-TR
+Added Room: Name=Schematic_Test_Bench_Back_Scatter

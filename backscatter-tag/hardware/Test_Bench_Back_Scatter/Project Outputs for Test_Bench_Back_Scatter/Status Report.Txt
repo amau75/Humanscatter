@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Test_Bench_Back_Scatter.PrjPcb]
+   Generated File[PCB_Test_Bench_Back_Scatter-RoundHoles.TXT]
+   Generated File[PCB_Test_Bench_Back_Scatter-SlotHoles.TXT]
+   Generated File[PCB_Test_Bench_Back_Scatter.LDP]
+   Generated File[PCB_Test_Bench_Back_Scatter.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:01:11 On 19/09/2024

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetP1_1 Pin=P1-1
+Removed Pin From Net: NetName=NetP1_1 Pin=WPM?-0
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=PI1-38
+Added Pin To Net: NetName=NetP1_1 Pin=WPM?-3
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetPI1_38
+Added Room: Name=Schematic_Test_Bench_Back_Scatter

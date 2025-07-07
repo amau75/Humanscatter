@@ -1,0 +1,17 @@
+Bill of Material for 
+On 10/11/2024 at 13:16:45
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ Cap Semi            C1206            6    C1, C2, C3, C4, C5, C6       Capacitor (Semiconductor SIM Model) 
+ DCJ200-10-A-XX-K_REVA GCT_DCJ200-10-A-XX-K_REVA    1    J1                           Power Barrel Connector Jack 2.05mm ID (0.081), 5.50mm OD (0.217) Through Hole, Right Angle 
+ Diode 18TQ045       18TQ045-M3       2    D1, D3                       Schottky Rectifier   
+ GaAs_MMIC_SPDT_Switch HMC190BMS8E      2    HMC1, HMC2                                        
+ Header 2            HDR1X2           1    P1                           Header, 2-Pin        
+ LED                 HDR1X2           1    P2                           Header, 2-Pin        
+ Raspberry Pi Pico   Raspberry Pi Pico    1    PI1                                               
+ Res3                J1-0603          2    R1, R2                       Resistor             
+ RISE_LOGO           RISE_Logo        1    *                            RISE_Logo            
+ SMA-J-P-H-ST-EM1    SAMTEC_SMA-J-P-H-ST-EM1    2    J2, J3                       SMA Connector Jack, Female Socket 50Ohm Board Edge, End Launch Solder 
+ USB C Socket Breakout Simple_USB_C_Socket_Breakout    1    USB_C1                       Simple USB C Socket Breakout 
+ WPM_404             WPM404_SMD       1    WPM1                         Velleman WPM404 Whadda DC-DC Adjustable Voltage Step-Down Module LM2596S 
